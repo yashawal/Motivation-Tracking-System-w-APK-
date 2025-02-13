@@ -73,7 +73,6 @@ Feel free to tweak the parameters to best suit your journey toward a more motiva
 
 ## Contributing
 
-We’re all about progress—both personal and project-based.  
 If you have ideas to improve Motivation Tracker or want to add new features:
 - Fork the repository.
 - Make your changes.
