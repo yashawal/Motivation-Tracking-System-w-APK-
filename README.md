@@ -38,7 +38,7 @@ This balance shows how today's actions shape your future motivation – a nod to
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/motivation-tracker.git
+   git clone https://github.com/yashawal/Motivation-Tracking-System-w-APK-.git
    cd motivation-tracker
    ```
 2. **Run the script:**
